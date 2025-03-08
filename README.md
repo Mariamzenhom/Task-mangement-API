@@ -1,5 +1,5 @@
 
-#API Endpoints
+# API Endpoints
 
 | Type   | URL                        |
 |--------|----------------------------|
